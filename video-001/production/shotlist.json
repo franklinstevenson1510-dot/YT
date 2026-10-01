@@ -1,0 +1,51 @@
+{
+  "style": "cinematic 1920s noir illustration, grainy black-and-white with selective signal-red (#D7263D) accents, deep shadows, 35mm film grain, 16:9, no text, no logos, no watermarks",
+  "negative": "modern objects, readable text, captions, watermark, cartoon, extra fingers, deformed faces",
+  "scenes": {
+    "COLD OPEN": [
+      "wide shot of the Eiffel Tower at dusk in 1925, fog over Paris rooftops, a single lit window in a grand hotel in the foreground",
+      "close-up of a briefcase of cash on a polished hotel-suite table, a man's gloved hand resting on it, red lamp glow",
+      "silhouette of an elegant man in a 1920s suit looking out a tall window at the Eiffel Tower"
+    ],
+    "WHO IS THIS GUY": [
+      "sepia-toned small Central European town, 1890s, cobbled street, church tower, hazy morning light",
+      "1910s transatlantic ocean liner at sea, rich passengers on deck, a charming man in a tailored suit among them",
+      "portrait of a polished, smiling 1920s con man in a tailored suit, shallow depth of field, ambiguous eyes (fictional likeness)"
+    ],
+    "THE SETUP": [
+      "1925 Paris, the Eiffel Tower partially covered by scaffolding and rust, workers painting it, overcast sky",
+      "a hand typing a forged government letter on an old typewriter, official letterhead (blurred, no readable text), cigarette smoke",
+      "opulent Paris hotel meeting room, six businessmen in suits around a table listening intently to a man standing at the head"
+    ],
+    "ESCALATION 1: THE CHOSEN MARK": [
+      "an anxious, ambitious scrap-metal dealer in a 1920s suit, spotlighted, others fading into darkness",
+      "1920s luxury car driving through Paris streets at golden hour, motion blur, two men in the back seat",
+      "an envelope of cash passing across a car seat between two gloved hands, red accent on the envelope"
+    ],
+    "THE TWIST": [
+      "empty police desk, a ringing black telephone nobody answers, dust in the light",
+      "stack of newspapers on a table in a Vienna cafe, a man reading calmly and waiting, coffee steam",
+      "steam train leaving a station at night, a man at the window with a suitcase"
+    ],
+    "ESCALATION 2: THE BOX": [
+      "a mahogany box with brass dials and rollers on a desk, dramatic side light, patent-drawing feel",
+      "a gloved hand feeding a banknote into a mysterious wooden machine, two identical bills appear (illustrative)",
+      "a nervous wealthy buyer counting cash into an open drawer, shadow of a smiling salesman on the wall"
+    ],
+    "ESCALATION 3: CAPONE": [
+      "1920s Chicago street at night, wet pavement, streetlamps, a black sedan with chrome headlights",
+      "an imposing 1920s mob boss silhouette in a pinstripe suit behind a desk, cigar smoke, red desk lamp (fictional likeness)",
+      "a safe-deposit box vault with rows of brass doors, one opened, a stack of cash untouched inside"
+    ],
+    "THE FALL": [
+      "1930s federal agents in fedoras walking into a New York building, long shadows, newspaper headline shapes (no readable text)",
+      "a man climbing out of a high barred window on a rope of knotted bedsheets above a crowded street",
+      "Alcatraz island at dawn, fog, the prison silhouette, cold light"
+    ],
+    "THE TELL": [
+      "a typed sheet of paper with ten rules, one line highlighted in red ink (text illegible)",
+      "a prison infirmary bed, a death certificate on a clipboard, single window light",
+      "a lone red door at the end of a dark corridor, the word-free symbol of a warning"
+    ]
+  }
+}
