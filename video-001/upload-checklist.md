@@ -1,0 +1,11 @@
+# Channel setup + upload checklist (needs your Google login)
+- [ ] studio.youtube.com → create channel (Brand Account) with chosen name/handle
+- [ ] Upload avatar (red tower-in-keyhole or "CF" monogram) + banner from blueprint
+- [ ] Paste About text; add business email; set country; turn on verification when eligible
+- [ ] Enable: Advanced settings → "Altered content" disclosure where required for realistic synthetic media
+- [ ] Record/generate narration from `02-script.md` (150 wpm); 
+- [ ] Edit: visual change every 3–6 s; captions; music at −20 dB under voice
+- [ ] Fact-check pass using `03-fact-check.md`; fix ⚠ lines
+- [ ] Export 1080p/4K; thumbnail (top concept) ≥ 1280×720
+- [ ] Title (top 3, A/B test), description, tags, chapters, pinned comment
+- [ ] Publish Tue/Thu 2–4 pm local; post the 3 Shorts over following days
